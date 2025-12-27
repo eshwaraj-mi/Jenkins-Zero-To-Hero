@@ -9,7 +9,7 @@ pipeline {
     SONAR_URL = "http://localhost:9000"
     DOCKER_IMAGE = "eshupanchi1/ultimate-cicd:${BUILD_NUMBER}"
     GIT_REPO_NAME = "Jenkins-Zero-To-Hero"
-    GIT_USER_NAME = "iam-eshwar"
+    GIT_USER_NAME = "eshwaraj-mi"
   }
 
   stages {
